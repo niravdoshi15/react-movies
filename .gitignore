@@ -1,0 +1,5 @@
+/node_modules/
+package-lock.json
+/client1/dist/
+/client1/node_modules/
+/client1/package-lock.json
